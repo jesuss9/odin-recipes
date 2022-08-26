@@ -1,1 +1,1 @@
-# odin-recipes
+ I will use this project to show my new skills of adding images,links making txt italic and bold with significance to the screen reader, also skill to seperate into paragraphs, adding headings
