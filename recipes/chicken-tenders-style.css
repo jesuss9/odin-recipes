@@ -1,0 +1,21 @@
+body{
+    background-color:cornsilk;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    background-color:burlywood;
+    color:white;
+    text-align:center;
+    font-size:45px
+}
+
+#chicken-pic {
+    height:500px;
+    width:500px;
+}
+
+#description {
+    font-size:22px
+}
+ 
